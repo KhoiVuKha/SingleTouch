@@ -7,7 +7,8 @@ So our product now acts as an USB Device (In another words It is 'a simple keybo
 With this product, we can play many basic games like: Piano (8 keys), Chicken invaders, Pacman...
 Some Images:
 
-# PCB:
+# Schematic:
+![image](https://user-images.githubusercontent.com/15206083/191793858-991b6fc5-03c2-4e1b-8dec-3eb722ad50eb.png)
 
 # Product's real Image
 Product is simply as a PCB board with main chip (STM32C8T6 - with intergrated USB interface) and some holes (Capacitive Sensor Buttons)
@@ -29,8 +30,7 @@ A capacitive sensor is an electronic device that can detect solid or liquid targ
 
 ![image](https://user-images.githubusercontent.com/15206083/191790204-d4eeb30f-324d-4572-8a2d-8b44d85a0778.png)
 
-
-## Capacitive sensing
+*Capacitive sensing*
 In electrical engineering, capacitive sensing is a technology, based on capacitive coupling, that can detect and measure anything that is conductive or has a dielectric different from air. [Wiki](https://en.wikipedia.org/wiki/Capacitive_sensing).
 
 - Hardware design.
