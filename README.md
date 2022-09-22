@@ -33,7 +33,9 @@ Connected with some wires to objects
 - Capacitive Sensor Button
 A capacitive sensor is an electronic device that can detect solid or liquid targets without physical contact. To detect these targets, capacitive sensors emit an electrical field from the sensing end of the sensor. Any target that can disrupt this electrical field can be detected by a capacitive sensor
 
-![image](https://user-images.githubusercontent.com/15206083/191790204-d4eeb30f-324d-4572-8a2d-8b44d85a0778.png)
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/15206083/191790204-d4eeb30f-324d-4572-8a2d-8b44d85a0778.png)">
+</p>
 
 *Capacitive sensing*
 In electrical engineering, capacitive sensing is a technology, based on capacitive coupling, that can detect and measure anything that is conductive or has a dielectric different from air. [Wiki](https://en.wikipedia.org/wiki/Capacitive_sensing).
