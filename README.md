@@ -14,7 +14,7 @@ Product is simply as a PCB board with main chip (STM32C8T6 - with intergrated US
 
 ![image](https://user-images.githubusercontent.com/15206083/191791381-8f3cd388-ae28-434d-8c84-33452aff3ef8.png)
 
-Connected with some wire to objects
+Connected with some wires to objects
 
 ![image](https://user-images.githubusercontent.com/15206083/191791429-287e9807-fd85-4b9f-a54e-7f58e9faf08d.png)
 
@@ -23,8 +23,15 @@ Connected with some wire to objects
 
 
 # Techniques / Technologies
+
 - Capacitive Sensor Button
+A capacitive sensor is an electronic device that can detect solid or liquid targets without physical contact. To detect these targets, capacitive sensors emit an electrical field from the sensing end of the sensor. Any target that can disrupt this electrical field can be detected by a capacitive sensor
+
 ![image](https://user-images.githubusercontent.com/15206083/191790204-d4eeb30f-324d-4572-8a2d-8b44d85a0778.png)
+
+
+## Capacitive sensing
+In electrical engineering, capacitive sensing is a technology, based on capacitive coupling, that can detect and measure anything that is conductive or has a dielectric different from air. [Wiki](https://en.wikipedia.org/wiki/Capacitive_sensing).
 
 - Hardware design.
 - C Programming Language.
