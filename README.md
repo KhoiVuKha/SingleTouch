@@ -23,10 +23,10 @@ Product is simply as a PCB board with main chip (STM32C8T6 - with intergrated US
 
 Connected with some wires to objects
 
-| --- | --- |
-| ![image](https://user-images.githubusercontent.com/15206083/191791429-287e9807-fd85-4b9f-a54e-7f58e9faf08d.png) | ![image](https://user-images.githubusercontent.com/15206083/191792009-551b168a-3017-4578-824f-357b26c0fc8c.png) |
-| ![image](https://user-images.githubusercontent.com/15206083/191795613-f763d5ec-8d02-42cf-a596-9d6437c14243.png) | ![image](https://user-images.githubusercontent.com/15206083/191795675-1882faab-9d1d-4a3a-bbf9-f945da65c3e4.png) |
-| ![image](https://user-images.githubusercontent.com/15206083/191795715-903ab9e5-3868-4691-98a2-b311f222874f.png) | ![image](https://user-images.githubusercontent.com/15206083/191795764-af761b14-1af6-4c64-93b3-b19d71477abe.png) |
+| ------------- | ------------- |
+| ![image](https://user-images.githubusercontent.com/15206083/191791429-287e9807-fd85-4b9f-a54e-7f58e9faf08d.png)  | ![image](https://user-images.githubusercontent.com/15206083/191792009-551b168a-3017-4578-824f-357b26c0fc8c.png)  |
+| ![image](https://user-images.githubusercontent.com/15206083/191795613-f763d5ec-8d02-42cf-a596-9d6437c14243.png)  | ![image](https://user-images.githubusercontent.com/15206083/191795675-1882faab-9d1d-4a3a-bbf9-f945da65c3e4.png)  |
+| ![image](https://user-images.githubusercontent.com/15206083/191795715-903ab9e5-3868-4691-98a2-b311f222874f.png)  | ![image](https://user-images.githubusercontent.com/15206083/191795764-af761b14-1af6-4c64-93b3-b19d71477abe.png)  |
 
 # Techniques / Technologies
 - Capacitive Sensor Button
