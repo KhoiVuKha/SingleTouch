@@ -19,9 +19,12 @@ Top Layer | Bottom Layer
 # Product's real Image
 Product is simply as a PCB board with main chip (STM32C8T6 - with intergrated USB interface) and some holes (Capacitive Sensor Buttons)
 
-![image](https://user-images.githubusercontent.com/15206083/191791381-8f3cd388-ae28-434d-8c84-33452aff3ef8.png)
+| Green PCB (v1.0)  | Red PCB (V1.1) |
+| ------------- | ------------- |
+| ![image](https://user-images.githubusercontent.com/15206083/191791381-8f3cd388-ae28-434d-8c84-33452aff3ef8.png)  | ![b635873c06c9c2979bd8](https://user-images.githubusercontent.com/15206083/191877893-8d699ce1-17ae-474e-b517-fedd74d7c405.jpg)  |
 
-Connected with some wires to objects
+
+Connected with wires connected to objects
 
 | #  | # |
 | ------------- | ------------- |
@@ -31,14 +34,16 @@ Connected with some wires to objects
 
 # Techniques / Technologies
 - Capacitive Sensor Button
-A capacitive sensor is an electronic device that can detect solid or liquid targets without physical contact. To detect these targets, capacitive sensors emit an electrical field from the sensing end of the sensor. Any target that can disrupt this electrical field can be detected by a capacitive sensor
+
+  A capacitive sensor is an electronic device that can detect solid or liquid targets without physical contact. To detect these targets, capacitive sensors emit an electrical field from the sensing end of the sensor. Any target that can disrupt this electrical field can be detected by a capacitive sensor
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/15206083/191790204-d4eeb30f-324d-4572-8a2d-8b44d85a0778.png">
 </p>
 
 - Capacitive sensing
-In electrical engineering, capacitive sensing is a technology, based on capacitive coupling, that can detect and measure anything that is conductive or has a dielectric different from air. Refer to [Wiki](https://en.wikipedia.org/wiki/Capacitive_sensing).
+
+  In electrical engineering, capacitive sensing is a technology, based on capacitive coupling, that can detect and measure anything that is conductive or has a dielectric different from air. Refer to [Wiki](https://en.wikipedia.org/wiki/Capacitive_sensing).
 
 - Hardware design.
 - C Programming Language.
