@@ -3,7 +3,7 @@
 - These ADC values are read by some chip's ADC Pins.
 - Each Sensor button is configured as a keyboard's key.
 - STM32C8T6 processes touch evens and send it to a Computer through USB connection.
-- So our product now acts as an USB Device (In another words It is 'a simple keyboard USB version', each sensor button is a key button).
+- So our product now acts as an USB HID (USB human interface device class) (In another words It is 'a simple keyboard USB version', each sensor button is a key button).
 - With this product, we can play many basic games like: Piano (8 keys), Chicken invaders, Pacman...
 Some Images:
 
@@ -51,6 +51,6 @@ Top Layer | Bottom Layer
 
 - Hardware design.
 - C Programming Language.
-- USB Device programming.
+- USB HID programming.
 - Embedded C & STM32 MicroController: ADC, UART, USB, GPIO...
 - Probability statistics theory.
