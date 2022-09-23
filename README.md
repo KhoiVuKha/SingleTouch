@@ -9,7 +9,7 @@ Some Images:
 
 # Schematic & PCB:
 ## Schematic
-![image](https://user-images.githubusercontent.com/15206083/191793858-991b6fc5-03c2-4e1b-8dec-3eb722ad50eb.png)
+![image](https://user-images.githubusercontent.com/15206083/191881091-445c9a52-3f20-4842-907c-f8bab5e8628e.png)
 
 ## PCB
 Top Layer | Bottom Layer
