@@ -17,14 +17,18 @@ Top Layer | Bottom Layer
 ![image](https://user-images.githubusercontent.com/15206083/191795135-0056b6c9-4115-4904-a94d-adacafb0a85c.png) | ![image](https://user-images.githubusercontent.com/15206083/191795251-68b556c2-ee14-4841-9566-f089307ac6b0.png)
 
 # Product's real Image
-Product is simply as a PCB board with main chip (STM32C8T6 - with intergrated USB interface) and some holes (Capacitive Sensor Buttons)
+- Product is simply as a PCB board with main chip (STM32C8T6 - with intergrated USB interface) and some holes (Capacitive Sensor Buttons)
 
 | Green PCB (v1.0)  | Red PCB (V1.1) |
 | ------------- | ------------- |
-| ![image](https://user-images.githubusercontent.com/15206083/191791381-8f3cd388-ae28-434d-8c84-33452aff3ef8.png)  | ![b635873c06c9c2979bd8](https://user-images.githubusercontent.com/15206083/191877893-8d699ce1-17ae-474e-b517-fedd74d7c405.jpg)  |
+| ![image](https://user-images.githubusercontent.com/15206083/191791381-8f3cd388-ae28-434d-8c84-33452aff3ef8.png) | ![b635873c06c9c2979bd8](https://user-images.githubusercontent.com/15206083/191878442-0774e454-0d13-4ca8-b609-1e212e33e420.jpg) |
+
+- Game Pad
+
+![TAY_CAM](https://user-images.githubusercontent.com/15206083/191878358-3bdd1f02-b2be-4ece-9ec5-f03351eaf6da.png)
 
 
-Connected with wires connected to objects
+- Connected with wires connected to objects
 
 | #  | # |
 | ------------- | ------------- |
