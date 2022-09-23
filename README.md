@@ -25,7 +25,7 @@ Top Layer | Bottom Layer
 
 - Game Pad
 
-![TAY_CAM](https://user-images.githubusercontent.com/15206083/191878358-3bdd1f02-b2be-4ece-9ec5-f03351eaf6da.png)
+![TAY_CAM](https://user-images.githubusercontent.com/15206083/191878611-b2440649-3039-45b5-9b36-32869dfaf425.png)
 
 
 - Connected with wires connected to objects
